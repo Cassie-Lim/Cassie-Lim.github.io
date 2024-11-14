@@ -26,7 +26,7 @@
         "startDate": "2024-03-31",
         "endDate": "",
         "highlights": [],
-        "summary": "Guided by Zike Yan, working on multi-modal lifelong navigation with neural field. \n● Adopt experience replay based continual learning for online grounding semantic features into neural radiance field, providing universal guidance for goals specified by different modalities. \n● Extract a Graph from dense field for efficient path planning, designing a navigation strategy that offers instance-wise semantic guidance and considers uncertainty and safety. (Manuscript in preparation.)",
+        "summary": "Guided by Zike Yan, I am developing a multi-modal lifelong navigation system using neural fields, integrating continual learning with experience replay for semantic grounding, and designing a graph-based navigation strategy that ensures semantic guidance, safety, and uncertainty awareness.",
         "url": "",
         "location": null
       },
@@ -34,9 +34,9 @@
         "name": "Institute of Automation, Chinese Academy of Sciences",
         "position": "Student Researcher",
         "startDate": "2023-08-31",
-        "endDate": "",
+        "endDate": "2024-10-30",
         "highlights": [],
-        "summary": "Guided by Professor Dongbin Zhao in National Key Laboratory of Multimodal Artificial Intelligence Systems, explore efficient navigation planning by tapping into the object affinities understanding of large language model (LLM). \n● Design a framework dynamically combining semantic understanding of LLMs with learned affinities from training environment, compatible with both metric-map-based and topological-graph-based policies. \n● Improve the efficacy and generalization ability of navigation systems in both AI-2THOR and Habitat environments. \n● Ongoing: Transfer the robotic system from simulation to real world. (Manuscript in preparation.)",
+        "summary": "Guided by Professor Dongbin Zhao in the National Key Laboratory of Multimodal AI Systems, the work focuses on efficient navigation planning by integrating object affinity insights from large language models with learned environment-specific affinities, enhancing generalization in AI-2THOR and Habitat, and transitioning the system to real-world robotics.",
         "url": "https://www.linkedin.com/company/3063816",
         "location": null
       },
@@ -46,7 +46,7 @@
         "startDate": "2023-03-31",
         "endDate": "2023-08-31",
         "highlights": [],
-        "summary": "Guided by Yu Sun, work on adapting model-based policy to environments with varying physical attributes.\n● Integrated the derivative API of Mujoco into backward process to enable gradient to be passed to policy model, given reward function conditioned on observation. \n● Trained an observation-affine model to calibrate the transition model based on immediate past data, tune the old policy based on the refined observation with MPC.",
+        "summary": "Under the guidance of Yu Sun, the research focuses on adapting model-based policies to environments with diverse physical attributes by integrating MuJoCo's derivative API for gradient backpropagation through observation-conditioned reward functions, and by training an observation-affine model to calibrate the transition model and refine policies using MPC with recent data.",
         "url": "https://www.linkedin.com/company/19024048",
         "location": null
       },
@@ -56,7 +56,7 @@
         "startDate": "2022-01-31",
         "endDate": "2022-07-31",
         "highlights": [],
-        "summary": "Advised by Professor Shiguan Shan, focus on eye tracking.\n● Extracted atomic eye movements and discerned their associated emotion patterns based on\nprevious researches. \n● Optimized an eye blink detection system to support multi-user eye tracking in both video-recorded and real-time scenarios.",
+        "summary": "Advised by Professor Shiguan Shan, the work focuses on eye tracking by analyzing atomic eye movements and their emotion patterns, while optimizing an eye blink detection system for multi-user tracking in both recorded videos and real-time applications.",
         "url": "https://www.linkedin.com/company/5843237",
         "location": null
       }
