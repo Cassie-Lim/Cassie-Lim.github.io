@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi👋! I am Mengying Lin, a 1st year MS Robotics student at [Georgia Institute of Technology](https://www.gatech.edu/) with [Prof. Danfei Xu](https://faculty.cc.gatech.edu/~danfei/). I am interested in learning generalizable (task/scene/...) representation for robotic tasks.
 
-I obtained my bachelor degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), advised by [Shiguang Shan](https://scholar.google.com/citations?hl=zh-CN&user=Vkzd7MIAAAAJ) and [Dongbin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=RxvYlNQAAAAJ). I have been working as a research intern at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm) with Dr. [Zike Yan](https://zikeyan.github.io/).
+I obtained my bachelor degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), advised by [Shiguang Shan](https://scholar.google.com/citations?hl=zh-CN&user=Vkzd7MIAAAAJ) and [Dongbin Zhao](https://scholar.google.com/citations?hl=zh-CN&user=RxvYlNQAAAAJ). I also had a fulfilling experience as a research intern at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm) with Dr. [Zike Yan](https://zikeyan.github.io/).
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Cyz6Ee38TKsSOrnYQY4gV6WYjl_tfZ3RUVnSMU6yROY"></script>
