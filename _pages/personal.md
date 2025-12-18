@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /personal/
 title: personal
@@ -54,4 +54,4 @@ Check out my dance accounts:
 </div>
 <div class="caption">
     Ducks keep me company. The best coding partner ever. Even my retired laptop has a duck on it...
-</div>
+</div> -->
