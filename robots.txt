@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Cassie-Lim.github.io//sitemap.xml
+Sitemap: https://Cassie-Lim.github.io/sitemap.xml
