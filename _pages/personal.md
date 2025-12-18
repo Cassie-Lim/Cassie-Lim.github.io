@@ -2,7 +2,7 @@
 layout: page
 permalink: /personal/
 title: personal
-nav: true
+nav: false
 nav_order: 8
 ---
 
