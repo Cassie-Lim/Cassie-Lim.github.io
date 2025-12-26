@@ -2,7 +2,7 @@
 layout: page
 title: Uncertainty-Aware IRL from Suboptimal Demonstrations
 description: Build rewards with a gaussian model to capture uncertainty for inverse reinforcement learning from Suboptimal Demonstrations
-img: assets/img/GR-IRL.png
+img: assets/img/grirl/GR-IRL.png
 importance: 2
 category: work
 ---
