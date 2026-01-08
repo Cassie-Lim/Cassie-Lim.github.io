@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: page
 permalink: /personal/
 title: personal
 nav: false
 nav_order: 8
----
+--- -->
 
 ## Danceholic
 
