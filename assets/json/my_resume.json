@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Mengying Lin",
-      "label": "MS Robotics @ Georgia Institute of Technology | Research Intern @ AIR, THU | Research Intern @ Institute of Automation, CAS",
+      "label": "MS Robotics @ Georgia Institute of Technology",
       "image": "",
       "email": "mlin365@gatech.edu",
       "phone": "",
@@ -21,43 +21,33 @@
     },
     "work": [
       {
-        "name": " Institute for AI Industry Research, Tsinghua University",
-        "position": "Research Intern",
-        "startDate": "2024-03-31",
+        "name": "Robot Learning and Reasoning Lab, Georgia Institute of Technology",
+        "position": "Student Researcher",
+        "startDate": "2024-12-01",
         "endDate": "",
         "highlights": [],
-        "summary": "Guided by Zike Yan, I am developing a multi-modal lifelong navigation system using neural fields, integrating continual learning with experience replay for semantic grounding, and designing a graph-based navigation strategy that ensures semantic guidance, safety, and uncertainty awareness.",
+        "summary": "Developed a part-level graph correspondence framework that enables zero-shot manipulation transfer across unseen object categories. Designed multi-scale object representations and an optimal-transport–based matching algorithm to propagate grasps and trajectories directly from geometric structure. Integrated the method with MimicGen to generate diverse demonstrations and validated its effectiveness through simulation and real-world execution on a Franka Panda robot.",
         "url": "",
+        "location": null
+      },
+      {
+        "name": "Institute for AI Industry Research, Tsinghua University",
+        "position": "Research Intern",
+        "startDate": "2024-03-31",
+        "endDate": "2024-10-30",
+        "highlights": [],
+        "summary": "Developed a task-aware neural field system that enabled more accurate scene understanding and supported robust multi-modal localization and navigation. Designed a selective experience replay strategy to prioritize task-relevant, high-confidence features, effectively reducing semantic noise during continual learning. The resulting system achieved a +4.36 improvement in localization accuracy over the previous state of the art, significantly enhancing downstream navigation reliability.",
+        "url": "https://cassie-lim.github.io/ProGround/",
         "location": null
       },
       {
         "name": "Institute of Automation, Chinese Academy of Sciences",
         "position": "Student Researcher",
         "startDate": "2023-08-31",
-        "endDate": "2024-10-30",
+        "endDate": "2024-9-30",
         "highlights": [],
-        "summary": "Guided by Professor Dongbin Zhao in the National Key Laboratory of Multimodal AI Systems, the work focuses on efficient navigation planning by integrating object affinity insights from large language models with learned environment-specific affinities, enhancing generalization in AI-2THOR and Habitat, and transitioning the system to real-world robotics.",
-        "url": "https://www.linkedin.com/company/3063816",
-        "location": null
-      },
-      {
-        "name": "Berkeley Artificial Intelligence Research",
-        "position": "Student Researcher",
-        "startDate": "2023-03-31",
-        "endDate": "2023-08-31",
-        "highlights": [],
-        "summary": "Under the guidance of Yu Sun, the research focuses on adapting model-based policies to environments with diverse physical attributes by integrating MuJoCo's derivative API for gradient backpropagation through observation-conditioned reward functions, and by training an observation-affine model to calibrate the transition model and refine policies using MPC with recent data.",
-        "url": "https://www.linkedin.com/company/19024048",
-        "location": null
-      },
-      {
-        "name": "Institute of Computing Technology, Chinese Academy of Sciences",
-        "position": "Undergraduate Student Researcher",
-        "startDate": "2022-01-31",
-        "endDate": "2022-07-31",
-        "highlights": [],
-        "summary": "Advised by Professor Shiguan Shan, the work focuses on eye tracking by analyzing atomic eye movements and their emotion patterns, while optimizing an eye blink detection system for multi-user tracking in both recorded videos and real-time applications.",
-        "url": "https://www.linkedin.com/company/5843237",
+        "summary": "Developed a plug-and-train module that dynamically balances LLM-derived general priors with dataset-specific priors to improve downstream policy learning. The approach achieved state-of-the-art performance in both seen and unseen environments in the AI2-THOR simulator and successfully transferred navigation policies to physical robots in a zero-shot setting, demonstrating reliable real-world task completion. (IROS 2025 oral.)",
+        "url": "https://cassie-lim.github.io/LOAT/",
         "location": null
       }
     ],
@@ -68,7 +58,7 @@
         "area": "Robotics",
         "studyType": "Master of Science - MS",
         "startDate": "2024-8-15",
-        "endDate": "2026-6-30",
+        "endDate": "2026-5-16",
         "score": "",
         "courses": []
       },
